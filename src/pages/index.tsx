@@ -1,7 +1,7 @@
-export default function Home() {
+export default function HomePage() {
   return (
-    <div className="min-h-screen min-w-full bg-slate-500">
-      <h2 className="text-4xl text-red-400">Tittle</h2>
+    <div>
+      <h2>Hello World</h2>
     </div>
   );
 }
